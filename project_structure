@@ -1,0 +1,24 @@
+src/main/java/com/ipl/scoretracker/
+├── ScoreTrackerApplication.java
+├── config/
+│   ├── SecurityConfig.java
+│   └── ApiConfig.java
+├── controller/
+│   ├── ScoreController.java
+│   └── AuthController.java
+├── model/
+│   ├── Match.java
+│   ├── Team.java
+│   ├── Player.java
+│   ├── Score.java
+│   └── User.java
+├── repository/
+│   ├── MatchRepository.java
+│   └── UserRepository.java
+├── service/
+│   ├── CricbuzzApiService.java
+│   ├── ScoreService.java
+│   └── UserService.java
+└── dto/
+    ├── MatchDto.java
+    └── ScoreDto.java
