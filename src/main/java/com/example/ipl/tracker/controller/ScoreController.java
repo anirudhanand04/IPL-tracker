@@ -1,7 +1,7 @@
 package com.example.ipl.tracker.controller;
 
-import com.ipl.scoretracker.dto.MatchDto;
-import com.ipl.scoretracker.service.ScoreService;
+import com.example.ipl.tracker.dto.MatchDto;
+import com.example.ipl.tracker.service.ScoreService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.GetMapping;

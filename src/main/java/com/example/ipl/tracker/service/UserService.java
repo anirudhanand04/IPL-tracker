@@ -1,7 +1,7 @@
 package com.example.ipl.tracker.service;
 
-import com.ipl.scoretracker.model.User;
-import com.ipl.scoretracker.repository.UserRepository;
+import com.example.ipl.tracker.model.User;
+import com.example.ipl.tracker.respository.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;

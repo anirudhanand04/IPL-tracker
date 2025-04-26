@@ -1,8 +1,8 @@
 package com.example.ipl.tracker.service;
 
-import com.ipl.scoretracker.dto.MatchDto;
-import com.ipl.scoretracker.model.Match;
-import com.ipl.scoretracker.repository.MatchRepository;
+import com.example.ipl.tracker.dto.MatchDto;
+import com.example.ipl.tracker.model.Match;
+import com.example.ipl.tracker.respository.MatchRepository;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.scheduling.annotation.Scheduled;

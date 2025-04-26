@@ -1,8 +1,8 @@
 package com.example.ipl.tracker.config;
 
 
-import com.ipl.scoretracker.service.JwtTokenService;
-import com.ipl.scoretracker.service.UserService;
+import com.example.ipl.tracker.service.JwtTokenService;
+import com.example.ipl.tracker.service.UserService;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;
