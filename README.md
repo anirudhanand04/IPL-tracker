@@ -1,11 +1,13 @@
-# IPL-tracker
-Developed a full-stack IPL Score Tracker web application using Spring Boot and Thymeleaf for real-time cricket match updates.
-Integrated with the Cricbuzz API to fetch and display live IPL match scores, team details, and match statistics.
-Implemented JWT-based authentication and authorization for secure user access and protected API endpoints.
-Designed and configured custom security filters and exception handling using Spring Security.
-Utilized RESTful APIs for efficient data exchange between frontend and backend.
-Built a robust user registration and login system with encrypted password storage using BCrypt.
-Applied reactive programming with WebClient for non-blocking API calls and improved performance.
-Ensured modular code structure with service, controller, and repository layers for maintainability and scalability.
-Wrote comprehensive unit and integration tests to ensure application reliability.
-Deployed the application locally and troubleshooted issues related to dependency injection and bean lifecycle in Spring.
+# IPL Score Tracker Web Application
+A full-stack web application built with Spring Boot and Thymeleaf, designed to provide real-time cricket match updates and detailed statistics for IPL fans. The app integrates with the Cricbuzz API to fetch live match scores, team details, and match data, ensuring accurate and timely information.
+Key Features
+- Live Match Updates: Real-time scores and statistics for IPL matches using Cricbuzz API.
+- Secure User Access: JWT-based authentication and authorization with encrypted password storage (BCrypt).
+- Modular Architecture: Service, controller, and repository layers ensure scalability and maintainability.
+- Reactive Programming: Non-blocking API calls with WebClient for enhanced performance.
+- Comprehensive Testing: Unit and integration tests for reliability and robustness.
+
+Deployment
+The application is configured for local deployment with detailed troubleshooting steps for dependency injection and bean lifecycle issues in Spring.
+
+Feel free to tweak this further to match your project's tone and purpose! 😊
